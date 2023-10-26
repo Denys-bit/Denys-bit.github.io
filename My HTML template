@@ -7,6 +7,17 @@
     <title>First Page</title>
 </head>
 <body>
+    <header>
+        <img src="#" alt="Logotype Company!">
+        <nav>
+            <li>
+                <ul><a href="#">Головна</a></ul>
+                <ul><a href="#">Про нас</a></ul>
+                <ul><a href="#">Ще щось</a></ul>
+                <ul><a href="#">...</a></ul>
+            </li>
+        </nav>
+    </header>
     <h1>Головна сторінка</h1>
     <p>Якийсь опис</p>
     <img src="#" alt="Зображення.">
